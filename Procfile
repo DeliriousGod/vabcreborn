@@ -1,1 +1,1 @@
-echo "worker: node run.bat"
+worker: node index.js
