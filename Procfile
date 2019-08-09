@@ -1,1 +1,1 @@
-worker: node index.js
+echo "worker: node index.js"
